@@ -17,7 +17,7 @@
 > 8주차 (~8/31) - PPT 제작  
 
 
-### 20230717  [바로가기](https://github.com/eunjin413/Prediction-of-Road-Traffic-in-Jeju-Island/tree/main/0717)
+### 20230717  [바로가기](https://dacon.io/competitions/official/235985/overview/description)
 - [곽은진]()
 - [고유경]()
 - [김가은]()

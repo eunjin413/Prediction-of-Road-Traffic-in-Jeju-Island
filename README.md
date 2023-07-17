@@ -18,7 +18,7 @@
 
 
 ### 20230717  [바로가기](https://github.com/eunjin413/Prediction-of-Road-Traffic-in-Jeju-Island/tree/main/0717)
-- [곽은진]()
+- [곽은진](https://github.com/eunjin413/Prediction-of-Road-Traffic-in-Jeju-Island/blob/main/0717/jeju_EDA.ipynb)
 - [고유경]()
 - [김가은]()
 - [김윤혜]()

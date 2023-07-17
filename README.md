@@ -22,4 +22,4 @@
 - [고유경]()
 - [김가은]()
 - [김윤혜]()
-- [임채현]()
+- [임채현](https://github.com/eunjin413/Prediction-of-Road-Traffic-in-Jeju-Island/blob/main/0717/summer_project_EDA.ipynb)

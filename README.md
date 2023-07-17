@@ -3,7 +3,7 @@
 
 
 ## ML Project
-- Competition : [제주도 도로 교통량 예측 AI 경진대](https://dacon.io/competitions/official/235985/data)
+- Competition : [제주도 도로 교통량 예측 AI 경진대회](https://dacon.io/competitions/official/235985/data)
 - Members : 곽은진, 고유경, 김가은, 김윤혜, 임채현
 
 ### Project Plan

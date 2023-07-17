@@ -16,6 +16,7 @@
 > 7주차 (~8/21) - 파라미터 튜닝 & 모델 선택  
 > 8주차 (~8/31) - PPT 제작  
 
+
 ### 20230717  [바로가기](https://github.com/chaehyounng/busriders_at_rushhour_prediction/tree/main/ProjectCode/20230104)
 - [곽은진]()
 - [고유경]()

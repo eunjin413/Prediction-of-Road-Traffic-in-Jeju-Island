@@ -17,7 +17,7 @@
 > 8주차 (~8/31) - PPT 제작  
 
 
-### 20230717  [바로가기](https://github.com/chaehyounng/busriders_at_rushhour_prediction/tree/main/ProjectCode/20230104)
+### 20230717  [바로가기](https://github.com/eunjin413/Prediction-of-Road-Traffic-in-Jeju-Island/tree/main/0717)
 - [곽은진]()
 - [고유경]()
 - [김가은]()
